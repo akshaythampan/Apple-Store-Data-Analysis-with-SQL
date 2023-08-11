@@ -148,7 +148,7 @@ ORDER BY prime_genre,
 
 ---
 
-Feel free to run these SQL queries in your preferred RDBMS environment to analyze and visualize the Apple Store dataset. Customize and modify the queries as needed to suit your analysis requirements.
+Feel free to run these SQL queries in your preferred RDBMS environment to analyze and visualize the Apple Store dataset. Customize and modify the queries as needed to suit your analysis requirements. Also, there are many more queries in the SQLite.sql file. feel free to check them out.
 
 ---
 
